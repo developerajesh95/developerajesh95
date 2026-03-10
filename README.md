@@ -9,14 +9,16 @@ I am a results-driven Android Developer with deep expertise in crafting high-qua
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Languages** | Kotlin, Java, Python, HTML, CSS, Hindi (Native), English (Excellent), German (A1) |
+| **Programming Languages** | Kotlin, Java, Python, HTML, CSS, C++ |
 | **Android Core** | Android SDK, Jetpack (Compose, Navigation, Room, WorkManager, ViewModel, LiveData), Android Profiler |
 | **Automotive** | Android Automotive OS (AAOS), OEM Standards, Driver Safety Guidelines |
 | **Architecture** | MVVM, MVC, MVP, Clean Architecture, Rainbow Architecture |
-| **DI & Networking** | Dagger, Hilt, REST API Integration, Retrofit, Stripe Integration |
+| **Frameworks** | Latte Framework |
+| **DI & Networking** | Dagger, Hilt, REST API Integration, Retrofit, Stripe Integration, Payment Gateway |
 | **Testing** | JUnit, Mockito, Espresso, Unit & Integration Testing |
-| **DevOps & Cloud** | CI/CD Pipelines, Jenkins, Docker, Kubernetes, Azure, Firebase (Crashlytics, Analytics) |
-| **Tools** | Git, JIRA, Confluence, SonarQube, Postman, Charles Proxy, Checkstyle |
+| **DevOps & Cloud** | CI/CD Pipelines, Jenkins, Docker, Kubernetes, Azure, Firebase (Crashlytics, Analytics, Firestore) |
+| **Tools** | Git, JIRA, Confluence, SonarQube, Postman, Charles Proxy |
+| **Languages** | Hindi (Native), English (Excellent), German (A1) |
 
 ---
 
